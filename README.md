@@ -64,7 +64,6 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-hzdmr.com-F75C7E?style=for-the-badge)](https://hzdmr.com)
 [![Email](https://img.shields.io/badge/📧_Email-ho.19462008@hotmail.com-0078D4?style=for-the-badge)](mailto:ho.19462008@hotmail.com)
-[![Discord](https://img.shields.io/badge/💬_Discord-huseyin.dev-5865F2?style=for-the-badge)](https://discord.com)
 
 </div>
 
@@ -74,6 +73,6 @@
   
 ### 💭 *"Kod yaz, hata al, düzelt — öğrenmenin tek yolu bu."* 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=KULLANICIADIN&color=F75C7E&style=for-the-badge&label=Profil+Görüntülenme)
+![Profile Views](https://komarev.com/ghpvc/?username=ozdmr-hsyn&color=F75C7E&style=for-the-badge&label=Profil+Görüntülenme)
 
 </div>
